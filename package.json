@@ -1,0 +1,16 @@
+{
+  "name": "aroma",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "preact": "^10.20.0",
+    "preact-render-to-string": "^6.4.1",
+    "zustand": "^4.5.2"
+  }
+}
